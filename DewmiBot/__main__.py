@@ -118,7 +118,7 @@ BUTTONS = (
         [
             InlineKeyboardButton(
                 text="➕ Add Me To Your Group ➕",
-                url=f"t.me/szrosebot?startgroup=true",
+                url=f"t.me/SPARROW_ROBBOT?startgroup=true",
             )
         ],
     ]
